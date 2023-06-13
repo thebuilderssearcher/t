@@ -2038,6 +2038,17 @@ body{
     background-color: #ede2de ;
 }
 
+.ptb--150{
+    padding: 57px 0;
+}
+.testimonialXX{
+    background-color: #ede2de ;
+}
+
+.offer-img-right{
+    height: 600px;
+}
+
 
 /*MOBILE*/
 @media (min-width: 480px) {
@@ -2057,5 +2068,6 @@ body{
         width: 75%;
     }
   }
+
 
   
