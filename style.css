@@ -2049,6 +2049,40 @@ body{
     height: 600px;
 }
 
+.login__register__menu li a {
+    font-size: 21px;
+}
+
+.htc__login__btn a {
+    width: 320px;
+    border: none;
+}
+.active-complete a{
+    background-color: #316280;
+    color: white;
+}
+
+.almost-complete {
+    width: 300px;
+    margin-left: inherit;
+}
+.complete-complete{
+    width: 120px;
+    margin-left: inherit;
+}
+.complete-img-col{
+    padding-left: 114px;
+}
+.login__register__almost{
+    font-size: 22px;
+}
+.row-almost-complete{
+    margin-top: -57px;
+}
+.ptb--150-almost-complete{
+    padding: none !important;
+    padding-bottom: 0px !important;
+}
 
 /*MOBILE*/
 @media (min-width: 480px) {
